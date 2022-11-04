@@ -1,0 +1,25 @@
+descriptor,radius,num points,distance metric,histograms,tile size,rank1
+MultiscaleLBP,2,16,manhattan,True,16,0.446
+MultiscaleLBP,2,12,manhattan,True,16,0.438
+MultiscaleLBP,1,8,manhattan,True,16,0.374
+MultiscaleLBP,2,16,manhattan,True,32,0.35
+MultiscaleLBP,2,12,manhattan,True,32,0.345
+MultiscaleLBP,2,12,cosine,True,16,0.337
+MultiscaleLBP,1,8,cosine,True,16,0.334
+MultiscaleLBP,2,16,cosine,True,16,0.321
+MultiscaleLBP,1,4,manhattan,True,16,0.304
+MultiscaleLBP,1,4,cosine,True,16,0.287
+MultiscaleLBP,2,16,euclidean,True,16,0.278
+MultiscaleLBP,1,8,manhattan,True,32,0.276
+MultiscaleLBP,1,8,euclidean,True,16,0.268
+MultiscaleLBP,2,12,euclidean,True,16,0.266
+MultiscaleLBP,2,12,cosine,True,32,0.249
+MultiscaleLBP,2,16,cosine,True,32,0.241
+MultiscaleLBP,1,4,euclidean,True,16,0.241
+MultiscaleLBP,1,8,cosine,True,32,0.235
+MultiscaleLBP,2,16,euclidean,True,32,0.227
+MultiscaleLBP,2,12,euclidean,True,32,0.223
+MultiscaleLBP,1,4,manhattan,True,32,0.217
+MultiscaleLBP,1,8,euclidean,True,32,0.207
+MultiscaleLBP,1,4,cosine,True,32,0.185
+MultiscaleLBP,1,4,euclidean,True,32,0.179

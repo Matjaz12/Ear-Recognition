@@ -1,0 +1,16 @@
+descriptor,radius,num points,distance metric,histograms,tile size,rank1
+MultiscaleLBP,3,24,manhattan,False,-1,0.068
+MultiscaleLBP,3,24,cosine,False,-1,0.035
+MultiscaleLBP,2,16,manhattan,False,-1,0.026
+MultiscaleLBP,1,8,manhattan,False,-1,0.025
+MultiscaleLBP,1,4,manhattan,False,-1,0.024
+MultiscaleLBP,3,24,euclidean,False,-1,0.022
+MultiscaleLBP,2,12,manhattan,False,-1,0.021
+MultiscaleLBP,2,16,cosine,False,-1,0.016
+MultiscaleLBP,1,4,euclidean,False,-1,0.015
+MultiscaleLBP,2,12,cosine,False,-1,0.015
+MultiscaleLBP,1,8,cosine,False,-1,0.013
+MultiscaleLBP,2,16,euclidean,False,-1,0.013
+MultiscaleLBP,1,4,cosine,False,-1,0.012
+MultiscaleLBP,2,12,euclidean,False,-1,0.012
+MultiscaleLBP,1,8,euclidean,False,-1,0.01

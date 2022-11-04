@@ -1,0 +1,7 @@
+descriptor,distance metric,rank1
+Baseline, euclidean, 0.132
+Baseline, cosine, 0.167
+Baseline, manhattan, 0.132
+Random, eucledian, 0.0092
+Random, cosine, 0.0096
+Random, manhattan, 0.0083

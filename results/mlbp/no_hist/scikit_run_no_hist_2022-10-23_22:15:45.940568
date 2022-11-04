@@ -1,0 +1,16 @@
+descriptor,radius,num points,distance metric,histograms,tile size,rank1
+ScikitLBP,2,12,manhattan,False,-1,0.309
+ScikitLBP,2,16,manhattan,False,-1,0.305
+ScikitLBP,3,24,manhattan,False,-1,0.295
+ScikitLBP,2,12,euclidean,False,-1,0.282
+ScikitLBP,2,16,euclidean,False,-1,0.28
+ScikitLBP,3,24,euclidean,False,-1,0.279
+ScikitLBP,1,8,manhattan,False,-1,0.259
+ScikitLBP,1,8,euclidean,False,-1,0.203
+ScikitLBP,3,24,cosine,False,-1,0.187
+ScikitLBP,1,4,manhattan,False,-1,0.183
+ScikitLBP,2,16,cosine,False,-1,0.182
+ScikitLBP,2,12,cosine,False,-1,0.176
+ScikitLBP,1,4,euclidean,False,-1,0.117
+ScikitLBP,1,8,cosine,False,-1,0.106
+ScikitLBP,1,4,cosine,False,-1,0.058

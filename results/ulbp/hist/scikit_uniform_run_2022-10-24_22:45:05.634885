@@ -1,0 +1,25 @@
+descriptor,radius,num points,distance metric,histograms,tile size,rank1
+ScikitLBP,2,16,manhattan,True,16,0.162
+ScikitLBP,2,12,manhattan,True,16,0.154
+ScikitLBP,1,8,manhattan,True,16,0.13
+ScikitLBP,2,16,cosine,True,16,0.126
+ScikitLBP,2,16,euclidean,True,16,0.126
+ScikitLBP,1,8,cosine,True,16,0.126
+ScikitLBP,2,12,cosine,True,16,0.119
+ScikitLBP,2,12,euclidean,True,16,0.118
+ScikitLBP,1,8,euclidean,True,16,0.115
+ScikitLBP,1,4,cosine,True,16,0.113
+ScikitLBP,1,4,manhattan,True,16,0.112
+ScikitLBP,2,16,manhattan,True,32,0.101
+ScikitLBP,1,4,euclidean,True,16,0.1
+ScikitLBP,2,12,manhattan,True,32,0.093
+ScikitLBP,1,8,cosine,True,32,0.085
+ScikitLBP,1,8,manhattan,True,32,0.078
+ScikitLBP,2,12,euclidean,True,32,0.077
+ScikitLBP,2,16,euclidean,True,32,0.075
+ScikitLBP,2,12,cosine,True,32,0.074
+ScikitLBP,2,16,cosine,True,32,0.074
+ScikitLBP,1,8,euclidean,True,32,0.07
+ScikitLBP,1,4,cosine,True,32,0.063
+ScikitLBP,1,4,euclidean,True,32,0.062
+ScikitLBP,1,4,manhattan,True,32,0.056

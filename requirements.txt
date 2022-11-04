@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scikit-learn
+scikit-image
+matplotlib
+pytest
+tqdm
+sympy
+numba
+bitstring
